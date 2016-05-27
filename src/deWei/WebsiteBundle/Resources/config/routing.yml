@@ -1,4 +1,5 @@
 deweiwebsitebundle_default:
-    resource: "@deWeiWebsiteBundle/Controller/DefaultController.php"
+    resource: '@deWeiWebsiteBundle/Controller/DefaultController.php'
     type:     annotation
     prefix:   /
+

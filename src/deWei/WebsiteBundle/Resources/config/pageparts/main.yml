@@ -1,0 +1,16 @@
+name: Main
+context: main
+types:
+    - { name: Audio, class: deWei\WebsiteBundle\Entity\PageParts\AudioPagePart }
+    - { name: Button, class: deWei\WebsiteBundle\Entity\PageParts\ButtonPagePart }
+    - { name: Download, class: deWei\WebsiteBundle\Entity\PageParts\DownloadPagePart }
+    - { name: Header, class: deWei\WebsiteBundle\Entity\PageParts\HeaderPagePart }
+    - { name: Image, class: deWei\WebsiteBundle\Entity\PageParts\ImagePagePart }
+    - { name: IntroText, class: deWei\WebsiteBundle\Entity\PageParts\IntroTextPagePart }
+    - { name: Line, class: deWei\WebsiteBundle\Entity\PageParts\LinePagePart }
+    - { name: Link, class: deWei\WebsiteBundle\Entity\PageParts\LinkPagePart }
+    - { name: RawHtml, class: deWei\WebsiteBundle\Entity\PageParts\RawHtmlPagePart }
+    - { name: Text, class: deWei\WebsiteBundle\Entity\PageParts\TextPagePart }
+    - { name: Toc, class: deWei\WebsiteBundle\Entity\PageParts\TocPagePart }
+    - { name: ToTop, class: deWei\WebsiteBundle\Entity\PageParts\ToTopPagePart }
+    - { name: Video, class: deWei\WebsiteBundle\Entity\PageParts\VideoPagePart }
